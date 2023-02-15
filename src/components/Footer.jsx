@@ -29,8 +29,12 @@ const Footer = () => {
             <p>г. Гай, ул. Ленина 43 | Cafe Club "M-Lunch"</p>
           </div>
           <div id="social">
-            <a href="https://vk.com/public200607121" class="social-icon vk"></a>
-            <a href="https://instagram.com/m_lunch_vgae" class="social-icon instagram"></a>
+            <a href="https://vk.com/public200607121" class="social-icon vk">
+              {' '}
+            </a>
+            <a href="https://instagram.com/m_lunch_vgae" class="social-icon instagram">
+              {' '}
+            </a>
           </div>
         </div>
       </div>
