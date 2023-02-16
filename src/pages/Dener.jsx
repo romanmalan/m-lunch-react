@@ -11,7 +11,7 @@ const Dener = () => {
         </h1>
         <div class="content__container">
           <div class="content__items">
-            <img src="../img/dener_kur.jpg" alt="С курицей" />
+            <img src="../m-lunch-react/img/dener_kur.jpg" alt="С курицей" />
             <div class="info__wrap">
               <div class="h2">
                 <h2>С курицей</h2>
@@ -29,7 +29,7 @@ const Dener = () => {
             </div>
           </div>
           <div class="content__items">
-            <img src="../img/dener_gov.jpg" alt="С говядиной" />
+            <img src="../m-lunch-react/img/dener_gov.jpg" alt="С говядиной" />
             <div class="info__wrap">
               <div class="h2">
                 <h2>С говядиной</h2>
@@ -47,7 +47,7 @@ const Dener = () => {
             </div>
           </div>
           <div class="content__items">
-            <img src="../img/denerbox_kur.jpg" alt="Ланчбокс с курицей" />
+            <img src="../m-lunch-react/img/denerbox_kur.jpg" alt="Ланчбокс с курицей" />
             <div class="info__wrap">
               <div class="h2">
                 <h2>Ланчбокс с курицей</h2>
@@ -65,7 +65,7 @@ const Dener = () => {
             </div>
           </div>
           <div class="content__items">
-            <img src="../img/denerbox_gov.jpg" alt="Ланчбокс с говядиной" />
+            <img src="../m-lunch-react/img/denerbox_gov.jpg" alt="Ланчбокс с говядиной" />
             <div class="info__wrap">
               <div class="h2">
                 <h2>Ланчбокс с говядиной</h2>

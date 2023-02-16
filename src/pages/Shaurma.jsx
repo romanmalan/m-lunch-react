@@ -11,7 +11,7 @@ const Shaurma = () => {
       </h1>
       <div class="content__container">
         <div class="content__items">
-          <img src="../img/sh_kur.jpg" alt="Шаурма с курицей" />
+          <img src="../m-lunch-react/img/sh_kur.jpg" alt="Шаурма с курицей" />
           <div class="info__wrap">
             <div class="h2">
               <h2>С курицей</h2>
@@ -29,7 +29,7 @@ const Shaurma = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/sh_gov.jpg" alt="Шаурма с говядиной" />
+          <img src="../m-lunch-react/img/sh_gov.jpg" alt="Шаурма с говядиной" />
           <div class="info__wrap">
             <div class="h2">
               <h2>С говядиной</h2>
@@ -47,7 +47,7 @@ const Shaurma = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/sh_zurna.jpg" alt="Зурна с курицей" />
+          <img src="../m-lunch-react/img/sh_zurna.jpg" alt="Зурна с курицей" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Зурна с курицей</h2>
@@ -68,7 +68,7 @@ const Shaurma = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/sh_zurna.jpg" alt="Зурна с говядиной" />
+          <img src="../m-lunch-react/img/sh_zurna.jpg" alt="Зурна с говядиной" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Зурна с говядиной</h2>
@@ -89,7 +89,7 @@ const Shaurma = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/1free.jpg" alt="доп. Картошка фри" />
+          <img src="../m-lunch-react/img/1free.jpg" alt="доп. Картошка фри" />
           <div class="info__wrap">
             <div class="h2">
               <h2>доп. Картошка фри</h2>
@@ -107,7 +107,7 @@ const Shaurma = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/sh_cheese.jpg" alt="" />
+          <img src="../m-lunch-react/img/sh_cheese.jpg" alt="" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Голландский сыр</h2>

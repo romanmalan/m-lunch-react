@@ -10,7 +10,7 @@ const Sous = () => {
       </h1>
       <div class="content__container">
         <div class="content__items" id="short-item">
-          <img src="../img/sous1.jpg" alt="Сырный Heinz" />
+          <img src="../m-lunch-react/img/sous1.jpg" alt="Сырный Heinz" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Сырный Heinz</h2>
@@ -25,7 +25,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous2.jpg" alt="Барбекью Heinz" />
+          <img src="../m-lunch-react/img/sous2.jpg" alt="Барбекью Heinz" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Барбекью Heinz</h2>
@@ -40,7 +40,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous3.jpg " alt="Чесночный Heinz" />
+          <img src="../m-lunch-react/img/sous3.jpg " alt="Чесночный Heinz" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Чесночный Heinz</h2>
@@ -55,7 +55,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous4.jpg " alt="Соевый соус" />
+          <img src="../m-lunch-react/img/sous4.jpg " alt="Соевый соус" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Соевый соус</h2>
@@ -70,7 +70,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous5.jpg" alt='Соус спайси "острый"' />
+          <img src="../m-lunch-react/img/sous5.jpg" alt='Соус спайси "острый"' />
           <div class="info__wrap">
             <div class="h2">
               <h2>Соус спайси "острый"</h2>
@@ -85,7 +85,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous6.jpg " alt="Сливочно-чесночный" />
+          <img src="../m-lunch-react/img/sous6.jpg " alt="Сливочно-чесночный" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Сливочно-чесночный</h2>
@@ -100,7 +100,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous7.jpg" alt="Имбирь маринованный" />
+          <img src="../m-lunch-react/img/sous7.jpg" alt="Имбирь маринованный" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Имбирь маринованный</h2>
@@ -115,7 +115,7 @@ const Sous = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/sous8.jpg" alt="Васаби" />
+          <img src="../m-lunch-react/img/sous8.jpg" alt="Васаби" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Васаби</h2>

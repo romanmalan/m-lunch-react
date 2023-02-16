@@ -10,7 +10,7 @@ const Salat = () => {
       </h1>
       <div class="content__container">
         <div class="content__items">
-          <img src="../img/salat_cezar.jpg" alt="Цезарь" />
+          <img src="../m-lunch-react/img/salat_cezar.jpg" alt="Цезарь" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Цезарь</h2>
@@ -28,7 +28,7 @@ const Salat = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/salat_vera.jpg" alt="Вера" />
+          <img src="../m-lunch-react/img/salat_vera.jpg" alt="Вера" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Вера</h2>

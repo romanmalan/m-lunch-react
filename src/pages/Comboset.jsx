@@ -9,11 +9,11 @@ const Comboset = () => {
         <span>Комбо-сеты</span>
       </h1>
       <div class="content__container">
-        <img width="880" src="../img/cset1.jpg" alt="cset1" />
-        <img width="880" src="../img/cset2.jpg" alt="cset2" />
-        <img width="880" src="../img/cset3.jpg" alt="cset3" />
-        <img width="880" src="../img/cset4.jpg" alt="cset4" />
-        <img width="880" src="../img/cset5.jpg" alt="cset5" />
+        <img width="880" src="../m-lunch-react/img/cset1.jpg" alt="cset1" />
+        <img width="880" src="../m-lunch-react/img/cset2.jpg" alt="cset2" />
+        <img width="880" src="../m-lunch-react/img/cset3.jpg" alt="cset3" />
+        <img width="880" src="../m-lunch-react/img/cset4.jpg" alt="cset4" />
+        <img width="880" src="../m-lunch-react/img/cset5.jpg" alt="cset5" />
       </div>
     </div>
   );

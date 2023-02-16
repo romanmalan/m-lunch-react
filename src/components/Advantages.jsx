@@ -20,7 +20,7 @@ const Advantages = () => {
           </div>
         </div>
         <div class="advantages-image">
-          <img src="./img/advantages.png" alt="advantages" />
+          <img src="../m-lunch-react/img/advantages.png" alt="advantages" />
           <div class="advantages-hours">
             <h3>Режим работы</h3>
             <p>
@@ -38,7 +38,7 @@ const Advantages = () => {
       </div>
       <div class="icons-container">
         <div class="icons">
-          <img src="./img/haltura.jpg" alt="вкусно быстро недорого" />
+          <img src="../m-lunch-react/img/haltura.jpg" alt="вкусно быстро недорого" />
         </div>
       </div>
     </div>

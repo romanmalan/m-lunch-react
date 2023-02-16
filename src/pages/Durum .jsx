@@ -11,7 +11,7 @@ const Durum = () => {
       </h1>
       <div class="content__container">
         <div class="content__items">
-          <img src="../img/Dyurum_kur.jpg" alt="С курицей" />
+          <img src="../m-lunch-react/img/Dyurum_kur.jpg" alt="С курицей" />
           <div class="info__wrap">
             <div class="h2">
               <h2>С курицей</h2>
@@ -32,7 +32,7 @@ const Durum = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/Dyurum_gov.jpg" alt="С говядиной" />
+          <img src="../m-lunch-react/img/Dyurum_gov.jpg" alt="С говядиной" />
           <div class="info__wrap">
             <div class="h2">
               <h2>С говядиной</h2>

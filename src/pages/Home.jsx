@@ -8,39 +8,39 @@ const Home = () => {
         <div id="active-slide">
           <div id="slider">
             <div class="slide">
-              <img src="/img/slide2.jpg" alt="slide" />
+              <img src="/m-lunch-react/img/slide2.jpg" alt="slide" />
             </div>
             <div class="slide">
-              <img src="/img/slide3.jpg" alt="slide" />
-            </div>
-
-            <div class="slide">
-              <img src="/img/slide5.jpg" alt="slide" />
-            </div>
-            <div class="slide">
-              <img src="/img/slide6.jpg" alt="slide" />
-            </div>
-            <div class="slide">
-              <img src="/img/slide7.jpg" alt="slide" />
-            </div>
-            <div class="slide">
-              <img src="/img/slide8.jpg" alt="slide" />
+              <img src="/m-lunch-react/img/slide3.jpg" alt="slide" />
             </div>
 
             <div class="slide">
-              <img src="/img/slide14.jpg" alt="slide" />
+              <img src="/m-lunch-react/img/slide5.jpg" alt="slide" />
+            </div>
+            <div class="slide">
+              <img src="/m-lunch-react/img/slide6.jpg" alt="slide" />
+            </div>
+            <div class="slide">
+              <img src="/m-lunch-react/img/slide7.jpg" alt="slide" />
+            </div>
+            <div class="slide">
+              <img src="/m-lunch-react/img/slide8.jpg" alt="slide" />
+            </div>
+
+            <div class="slide">
+              <img src="/m-lunch-react/img/slide14.jpg" alt="slide" />
             </div>
           </div>
         </div>
       </div>
       <div class="category__container">
-        <Link to="/pizza" class="category__item">
+        <Link to="/m-lunch-react/pizza" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Pizza_large.png"
+                  src="/m-lunch-react/img/Pizza_large.png"
                   alt="Пицца"
                 />
               </div>
@@ -48,13 +48,13 @@ const Home = () => {
             <div class="category__name">Пицца</div>
           </div>
         </Link>
-        <Link to="./shaurma/" Шаурма class="category__item">
+        <Link to="/m-lunch-react/shaurma/" Шаурма class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Doner_large.png"
+                  src="/m-lunch-react/img/Doner_large.png"
                   alt="Шаурма"
                 />
               </div>
@@ -62,13 +62,13 @@ const Home = () => {
             <div class="category__name">Шаурма</div>
           </div>
         </Link>
-        <Link to="/sushi" class="category__item">
+        <Link to="/m-lunch-react/sushi" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Sushi_large.png"
+                  src="/m-lunch-react/img/Sushi_large.png"
                   alt="Суши Роллы"
                 />
               </div>
@@ -76,13 +76,13 @@ const Home = () => {
             <div class="category__name">Роллы</div>
           </div>
         </Link>
-        <Link to="/burger" class="category__item">
+        <Link to="/m-lunch-react/burger" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Burgers_large.png"
+                  src="/m-lunch-react/img/Burgers_large.png"
                   alt="Бургеры"
                 />
               </div>
@@ -96,7 +96,7 @@ const Home = () => {
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Hot-dog_large.png"
+                  src="/m-lunch-react/img/Hot-dog_large.png"
                   alt="Хот-доги"
                 />
               </div>
@@ -106,13 +106,13 @@ const Home = () => {
         </Link>
       </div>
       <div class="category__container">
-        <Link to="/comboset" class="category__item">
+        <Link to="/m-lunch-react/comboset" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Kombo_large.png"
+                  src="/m-lunch-react/img/Kombo_large.png"
                   alt="Комбо сеты"
                 />
               </div>
@@ -120,13 +120,13 @@ const Home = () => {
             <div class="category__name">Комбо сеты</div>
           </div>
         </Link>
-        <Link to="/sushiset" class="category__item">
+        <Link to="/m-lunch-react/sushiset" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Set_large.png"
+                  src="/m-lunch-react/img/Set_large.png"
                   alt="Суши сеты"
                 />
               </div>
@@ -134,13 +134,13 @@ const Home = () => {
             <div class="category__name">Роллы сеты</div>
           </div>
         </Link>
-        <Link to="/durum" class="category__item">
+        <Link to="/m-lunch-react/durum" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Durum_large.png"
+                  src="/m-lunch-react/img/Durum_large.png"
                   alt="Дюрум"
                 />
               </div>
@@ -148,13 +148,13 @@ const Home = () => {
             <div class="category__name">Дюрум</div>
           </div>
         </Link>
-        <Link to="/giros" class="category__item">
+        <Link to="/m-lunch-react/giros" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Giros_large.png"
+                  src="/m-lunch-react/img/Giros_large.png"
                   alt="Гирос"
                 />
               </div>
@@ -162,13 +162,13 @@ const Home = () => {
             <div class="category__name">Гирос</div>
           </div>
         </Link>
-        <Link to="/dener" class="category__item">
+        <Link to="/m-lunch-react/dener" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Kebab_large.png"
+                  src="/m-lunch-react/img/Kebab_large.png"
                   alt="Денер кебаб"
                 />
               </div>
@@ -178,13 +178,13 @@ const Home = () => {
         </Link>
       </div>
       <div class="category__container">
-        <Link to="/zakuski" class="category__item">
+        <Link to="/m-lunch-react/zakuski" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Zakuski_large.png"
+                  src="/m-lunch-react/img/Zakuski_large.png"
                   alt="Закуски"
                 />
               </div>
@@ -192,13 +192,13 @@ const Home = () => {
             <div class="category__name">Закуски</div>
           </div>
         </Link>
-        <Link to="/salat" class="category__item">
+        <Link to="/m-lunch-react/salat" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Salat_large.png"
+                  src="/m-lunch-react/img/Salat_large.png"
                   alt="Салаты"
                 />
               </div>
@@ -206,13 +206,13 @@ const Home = () => {
             <div class="category__name">Салаты</div>
           </div>
         </Link>
-        <Link to="/napitki" class="category__item">
+        <Link to="/m-lunch-react/napitki" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Drink_large.png"
+                  src="/m-lunch-react/img/Drink_large.png"
                   alt="Напитки"
                 />
               </div>
@@ -220,13 +220,13 @@ const Home = () => {
             <div class="category__name">Напитки</div>
           </div>
         </Link>
-        <Link to="/sous" class="category__item">
+        <Link to="/m-lunch-react/sous" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Sous_large.png"
+                  src="/m-lunch-react/img/Sous_large.png"
                   alt="Соусы"
                 />
               </div>
@@ -234,13 +234,13 @@ const Home = () => {
             <div class="category__name">Соусы</div>
           </div>
         </Link>
-        <Link to="/promo" class="category__item">
+        <Link to="/m-lunch-react/promo" class="category__item">
           <div class="category__content">
             <div class="category__image">
               <div class="lazy-image">
                 <img
                   class="lazy-image__img lazy-image__img_large lazy-image__img_loaded"
-                  src="/img/Promo_large.png"
+                  src="/m-lunch-react/img/Promo_large.png"
                   alt="Акции"
                 />
               </div>

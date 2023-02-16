@@ -8,7 +8,12 @@ const Header = () => {
       <div id="wrapper-header">
         <div id="logo">
           <Link to="/m-lunch-react">
-            <img src="../m-lunch-react/img/logo2.png" alt="M-lunch" />
+            <img src="../m-lunch-react/img/logo.png" alt="M-lunch" />
+          </Link>
+        </div>
+        <div id="logo-mob">
+          <Link to="/m-lunch-react">
+            <img src="../m-lunch-react/img/logo1.png" alt="M-lunch" />
           </Link>
         </div>
         <div className="city-cont">

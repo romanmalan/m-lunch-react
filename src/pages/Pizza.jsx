@@ -10,9 +10,9 @@ function Pizza() {
           <span>Пицца</span>
         </h1>
         <div class="content__container">
-          <img width="880" src="../img/pizza1.jpg" alt="pizza1" />
-          <img width="880" src="../img/pizza2.jpg" alt="pizza2" />
-          <img width="880" src="../img/pizza3.jpg" alt="pizza3" />
+          <img width="880" src="../m-lunch-react/img/pizza1.jpg" alt="pizza1" />
+          <img width="880" src="../m-lunch-react/img/pizza2.jpg" alt="pizza2" />
+          <img width="880" src="../m-lunch-react/img/pizza3.jpg" alt="pizza3" />
         </div>
       </div>
     </>

@@ -10,7 +10,7 @@ const Napitki = () => {
       </h1>
       <div class="content__container">
         <div class="content__items" id="short-item">
-          <img src="../img/nap_fanta.jpg" alt="Фанта" />
+          <img src="../m-lunch-react/img/nap_fanta.jpg" alt="Фанта" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Фанта</h2>
@@ -25,7 +25,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_sprite.jpg" alt="Спрайт" />
+          <img src="../m-lunch-react/img/nap_sprite.jpg" alt="Спрайт" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Спрайт</h2>
@@ -40,7 +40,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_coca.jpg " alt="Кока-кола" />
+          <img src="../m-lunch-react/img/nap_coca.jpg " alt="Кока-кола" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Кока-кола</h2>
@@ -55,7 +55,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_mirinda.jpg " alt="Миринда" />
+          <img src="../m-lunch-react/img/nap_mirinda.jpg " alt="Миринда" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Миринда</h2>
@@ -70,7 +70,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_7up.jpg" alt="Севен ап" />
+          <img src="../m-lunch-react/img/nap_7up.jpg" alt="Севен ап" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Севен ап</h2>
@@ -85,7 +85,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_pepsi.jpg " alt="Пепси" />
+          <img src="../m-lunch-react/img/nap_pepsi.jpg " alt="Пепси" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Пепси</h2>
@@ -100,7 +100,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_flash.jpg" alt="Флэш" />
+          <img src="../m-lunch-react/img/nap_flash.jpg" alt="Флэш" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Флэш</h2>
@@ -115,7 +115,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_flash2.jpg" alt="Флэш" />
+          <img src="../m-lunch-react/img/nap_flash2.jpg" alt="Флэш" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Флэш</h2>
@@ -130,7 +130,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_apple.jpg" alt="Сок яблочный" />
+          <img src="../m-lunch-react/img/nap_apple.jpg" alt="Сок яблочный" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Сок яблочный</h2>
@@ -145,7 +145,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_orange.jpg" alt="Сок апельсиновый" />
+          <img src="../m-lunch-react/img/nap_orange.jpg" alt="Сок апельсиновый" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Сок апельсиновый</h2>
@@ -160,7 +160,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_mult.jpg" alt="Сок мультифрукт" />
+          <img src="../m-lunch-react/img/nap_mult.jpg" alt="Сок мультифрукт" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Сок мультифрукт</h2>
@@ -175,7 +175,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_peach.jpg" alt="Сок персиковый" />
+          <img src="../m-lunch-react/img/nap_peach.jpg" alt="Сок персиковый" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Сок персиковый</h2>
@@ -190,7 +190,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_milk.jpg" alt="Молочный коктейль" />
+          <img src="../m-lunch-react/img/nap_milk.jpg" alt="Молочный коктейль" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Молочный коктейль</h2>
@@ -205,7 +205,7 @@ const Napitki = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/nap_milk.jpg" alt="Молочный коктейль" />
+          <img src="../m-lunch-react/img/nap_milk.jpg" alt="Молочный коктейль" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Молочный коктейль</h2>

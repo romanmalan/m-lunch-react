@@ -9,10 +9,10 @@ const Promo = () => {
         <span>Акции</span>
       </h1>
       <div class="content__container">
-        <img width="880" src="../img/promo1.jpg" alt="promo1" />
-        <img width="880" src="../img/promo2.jpg" alt="promo2" />
-        <img width="880" src="../img/promo3.jpg" alt="promo3" />
-        <img width="880" src="../img/promo4.jpg" alt="promo4" />
+        <img width="880" src="../m-lunch-react/img/promo1.jpg" alt="promo1" />
+        <img width="880" src="../m-lunch-react/img/promo2.jpg" alt="promo2" />
+        <img width="880" src="../m-lunch-react/img/promo3.jpg" alt="promo3" />
+        <img width="880" src="../m-lunch-react/img/promo4.jpg" alt="promo4" />
       </div>
     </>
   );

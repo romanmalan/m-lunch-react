@@ -10,7 +10,7 @@ const Burger = () => {
       </h1>
       <div class="content__container">
         <div class="content__items">
-          <img src="../img/gamburger.jpg" alt="gamburger" />
+          <img src="../m-lunch-react/img/gamburger.jpg" alt="gamburger" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Гамбургер</h2>
@@ -28,7 +28,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/chikenburger.jpg" alt="chikenburger" />
+          <img src="../m-lunch-react/img/chikenburger.jpg" alt="chikenburger" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Чикенбургер</h2>
@@ -46,7 +46,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/cheeseburger.jpg " alt="cheeseburger" />
+          <img src="../m-lunch-react/img/cheeseburger.jpg " alt="cheeseburger" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Чизбургер</h2>
@@ -64,7 +64,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/chikencheese.jpg " alt="chikencheese" />
+          <img src="../m-lunch-react/img/chikencheese.jpg " alt="chikencheese" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Чикен чиз</h2>
@@ -82,7 +82,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/vesnagov.jpg" alt="vesnagov" />
+          <img src="../m-lunch-react/img/vesnagov.jpg" alt="vesnagov" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Весна с говядиной</h2>
@@ -102,7 +102,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/vesnakur.jpg " alt="vesnakur" />
+          <img src="../m-lunch-react/img/vesnakur.jpg " alt="vesnakur" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Весна с курицей</h2>
@@ -122,7 +122,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/bigcheese.jpg " alt="bigcheese" />
+          <img src="../m-lunch-react/img/bigcheese.jpg " alt="bigcheese" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Биг чиз</h2>
@@ -143,7 +143,7 @@ const Burger = () => {
           </div>
         </div>
         <div class="content__items">
-          <img src="../img/burgeregg.jpg " alt="burgeregg" />
+          <img src="../m-lunch-react/img/burgeregg.jpg " alt="burgeregg" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Бургер с яйцом</h2>

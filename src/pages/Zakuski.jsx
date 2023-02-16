@@ -10,7 +10,7 @@ const Zakuski = () => {
       </h1>
       <div class="content__container">
         <div class="content__items" id="short-item">
-          <img src="../img/zakus_ring.jpg" alt="Луковые кольца" />
+          <img src="../m-lunch-react/img/zakus_ring.jpg" alt="Луковые кольца" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Луковые кольца</h2>
@@ -25,7 +25,7 @@ const Zakuski = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/zakus_free.jpg" alt="Картошка фри" />
+          <img src="../m-lunch-react/img/zakus_free.jpg" alt="Картошка фри" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Картошка фри</h2>
@@ -40,7 +40,7 @@ const Zakuski = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/zakus_nuggets.jpg" alt="Наггетсы" />
+          <img src="../m-lunch-react/img/zakus_nuggets.jpg" alt="Наггетсы" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Наггетсы</h2>
@@ -55,7 +55,7 @@ const Zakuski = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/zakus_potato.jpg" alt="Картофель по деревенски" />
+          <img src="../m-lunch-react/img/zakus_potato.jpg" alt="Картофель по деревенски" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Картофель по деревенски</h2>
@@ -70,7 +70,7 @@ const Zakuski = () => {
           </div>
         </div>
         <div class="content__items" id="short-item">
-          <img src="../img/zakus_kroket.jpg" alt="Крокеты" />
+          <img src="../m-lunch-react/img/zakus_kroket.jpg" alt="Крокеты" />
           <div class="info__wrap">
             <div class="h2">
               <h2>Крокеты</h2>

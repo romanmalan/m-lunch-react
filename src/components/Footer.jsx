@@ -5,9 +5,25 @@ const Footer = () => {
     <footer>
       <div class="footer">
         <div class="numbers__time__footer">
-          <div id="numbers">
-            <p>7 909 618 81 81</p>
-            <p>7 922 818 81 81</p>
+          <div id="numbers" className="numbers-foot">
+            <a href="tel:+79096188181">
+              <img
+                className="phone_icon"
+                alt="telicon"
+                src="../m-lunch-react/img/phone_icon.png"
+                width="20"
+                height="20"></img>
+              <div>8 909-618-81-81</div>
+            </a>
+            <a href="tel:+79228188181">
+              <img
+                className="phone_icon2"
+                alt="telicon"
+                src="../m-lunch-react/img/phone_icon.png"
+                width="20"
+                height="20"></img>
+              <div>8 922-818-81-81</div>
+            </a>
           </div>
           <div id="time">
             <p>Доставка: с 11:00 до 24:00 без выходных</p>
@@ -17,7 +33,7 @@ const Footer = () => {
         <div class="logo__year__footer">
           <div class="logo__footer">
             <a href="./">
-              <img src="./img/logo.png" alt="M-lunch" />
+              <img src="./m-lunch-react/img/logo.png" alt="M-lunch" />
             </a>
           </div>
           <div class="year">
@@ -27,14 +43,6 @@ const Footer = () => {
         <div class="adress__social">
           <div class="adress">
             <p>г. Гай, ул. Ленина 43 | Cafe Club "M-Lunch"</p>
-          </div>
-          <div id="social">
-            <a href="https://vk.com/public200607121" class="social-icon vk">
-              {' '}
-            </a>
-            <a href="https://instagram.com/m_lunch_vgae" class="social-icon instagram">
-              {' '}
-            </a>
           </div>
         </div>
       </div>
