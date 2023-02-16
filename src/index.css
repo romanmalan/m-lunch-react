@@ -773,6 +773,10 @@ td:nth-child(2) {
   width: 550px;
 }
 @media (max-width: 1099px) {
+  .menu2__wrap {
+    width: 100%;
+  }
+
   .top-menu li {
     padding: 13px 25px;
   }
@@ -1286,4 +1290,14 @@ a[href^='tel'] {
 
 .numbers-foot {
   margin-left: 20px;
+}
+
+@media (max-width: 830px) {
+  #wrapper-header nav {
+    width: 125px;
+    padding: 7px 10px;
+  }
+  .top-menu li {
+    padding: 7px 25px;
+  }
 }
