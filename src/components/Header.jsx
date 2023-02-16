@@ -7,8 +7,8 @@ const Header = () => {
     <header>
       <div id="wrapper-header">
         <div id="logo">
-          <Link to="./">
-            <img src="img/logo.png" alt="M-lunch" />
+          <Link to="/m-lunch-react">
+            <img src="../m-lunch-react/img/logo2.png" alt="M-lunch" />
           </Link>
         </div>
         <div className="city-cont">
@@ -30,7 +30,7 @@ const Header = () => {
                 <img
                   className="phone_icon"
                   alt="telicon"
-                  src="/img/phone_icon.png"
+                  src="../m-lunch-react/img/phone_icon.png"
                   width="20"
                   height="20"></img>
                 <div>8 909-618-81-81</div>
@@ -39,7 +39,7 @@ const Header = () => {
                 <img
                   className="phone_icon2"
                   alt="telicon"
-                  src="/img/phone_icon.png"
+                  src="../m-lunch-react/img/phone_icon.png"
                   width="20"
                   height="20"></img>
                 <div>8 922-818-81-81</div>

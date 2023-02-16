@@ -3,16 +3,17 @@ import { Link, useLocation } from 'react-router-dom';
 
 const Menu2 = () => {
   const arr = [
-    { title: 'Закуски', url: '../zakuski' },
-    { title: 'Салаты', url: '../salat' },
-    { title: 'Денер кебаб', url: '../dener' },
-    { title: 'Гирос', url: '../giros' },
-    { title: 'Дюрум', url: '../durum' },
-    { title: 'Хот-доги', url: '../hot-dog' },
-    { title: 'Комбо сеты', url: '../comboset' },
-    { title: 'Роллы сеты', url: '../sushiset' },
-    { title: 'Соусы', url: '../sous' },
-    { title: 'Напитки', url: '../napitki' },
+    { title: 'Бургеры', url: '../m-lunch-react/burger' },
+    { title: 'Хот-доги', url: '../m-lunch-react/hot-dog' },
+    { title: 'Закуски', url: '../m-lunch-react/zakuski' },
+    { title: 'Салаты', url: '../m-lunch-react/salat' },
+    { title: 'Дюрум', url: '../m-lunch-react/durum' },
+    { title: 'Гирос', url: '../m-lunch-react/giros' },
+    { title: 'Денер кебаб', url: '../m-lunch-react/dener' },
+    { title: 'Комбо сеты', url: '../m-lunch-react/comboset' },
+    { title: 'Роллы сеты', url: '../m-lunch-react/sushiset' },
+    { title: 'Напитки', url: '../m-lunch-react/napitki' },
+    { title: 'Соусы', url: '../m-lunch-react/sous' },
   ];
 
   const location = useLocation();

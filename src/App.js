@@ -2,12 +2,12 @@ import React from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { useLayoutEffect } from 'react';
 
-import Home from './pages/Home';
-import Shaurma from './pages/Shaurma';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Advantages from './components/Advantages';
 //import Items from './components/Items';
+import Home from './pages/Home';
+import Shaurma from './pages/Shaurma';
 import Pizza from './pages/Pizza';
 import Burger from './pages/Burger';
 import Sushi from './pages/Sushi';
@@ -38,22 +38,22 @@ function App() {
       <div id="wrapper">
         <Wrapper>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/shaurma" element={<Shaurma />} />
-            <Route path="/pizza" element={<Pizza />} />
-            <Route path="/burger" element={<Burger />} />
-            <Route path="/sushi" element={<Sushi />} />
-            <Route path="/zakuski" element={<Zakuski />} />
-            <Route path="/salat" element={<Salat />} />
-            <Route path="/dener" element={<Dener />} />
-            <Route path="/giros" element={<Giros />} />
-            <Route path="/durum" element={<Durum />} />
-            <Route path="/hot-dog" element={<Hotdog />} />
-            <Route path="/comboset" element={<Comboset />} />
-            <Route path="/sushiset" element={<Sushiset />} />
-            <Route path="/sous" element={<Sous />} />
-            <Route path="/napitki" element={<Napitki />} />
-            <Route path="/promo" element={<Promo />} />
+            <Route path="m-lunch-react/" element={<Home />} />
+            <Route path="m-lunch-react/shaurma" element={<Shaurma />} />
+            <Route path="m-lunch-react/pizza" element={<Pizza />} />
+            <Route path="m-lunch-react/burger" element={<Burger />} />
+            <Route path="m-lunch-react/sushi" element={<Sushi />} />
+            <Route path="m-lunch-react/zakuski" element={<Zakuski />} />
+            <Route path="m-lunch-react/salat" element={<Salat />} />
+            <Route path="m-lunch-react/dener" element={<Dener />} />
+            <Route path="m-lunch-react/giros" element={<Giros />} />
+            <Route path="m-lunch-react/durum" element={<Durum />} />
+            <Route path="m-lunch-react/hot-dog" element={<Hotdog />} />
+            <Route path="m-lunch-react/comboset" element={<Comboset />} />
+            <Route path="m-lunch-react/sushiset" element={<Sushiset />} />
+            <Route path="m-lunch-react/sous" element={<Sous />} />
+            <Route path="m-lunch-react/napitki" element={<Napitki />} />
+            <Route path="m-lunch-react/promo" element={<Promo />} />
           </Routes>
         </Wrapper>
         <Advantages />

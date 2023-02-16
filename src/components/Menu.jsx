@@ -4,10 +4,9 @@ import { useLocation } from 'react-router-dom';
 
 const Menu = () => {
   const arr = [
-    { title: 'Пицца', url: '../pizza' },
-    { title: 'Шаурма', url: '../shaurma' },
-    { title: 'Роллы', url: '../sushi' },
-    { title: 'Бургеры', url: '../burger' },
+    { title: 'Пицца', url: 'm-lunch-react/pizza' },
+    { title: 'Шаурма', url: 'm-lunch-react/shaurma' },
+    { title: 'Роллы', url: 'm-lunch-react/sushi' },
   ];
 
   const location = useLocation();
