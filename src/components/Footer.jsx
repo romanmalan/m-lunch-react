@@ -33,7 +33,7 @@ const Footer = () => {
         <div class="logo__year__footer">
           <div class="logo__footer">
             <a href="./">
-              <img src="./m-lunch-react/img/logo.png" alt="M-lunch" />
+              <img src="/m-lunch-react/img/logo.png" alt="M-lunch" />
             </a>
           </div>
           <div class="year">

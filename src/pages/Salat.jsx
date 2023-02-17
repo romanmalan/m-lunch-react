@@ -3,7 +3,7 @@ import Menu2 from '../components/Menu2';
 
 const Salat = () => {
   return (
-    <>
+    <div class="body_salat">
       <Menu2 />
       <h1>
         <span>Салаты</span>
@@ -46,7 +46,7 @@ const Salat = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
