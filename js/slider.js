@@ -70,6 +70,16 @@ $(document).ready(function () {
       }, TimeView);
     }
   };
+  $('#slider-wrap').hover(
+    function () {
+      clearTimeout(slideTime);
+      pause = true;
+    },
+    function () {
+      pause = false;
+      rotator();
+    },
+  );
 
   var clicking = false;
   var prevX;
@@ -99,4 +109,6 @@ $(document).ready(function () {
       clicking = false;
     }
   });
+  $('.slide').hover().css('cursor', 'pointer');
+  rotator();
 });
