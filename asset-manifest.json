@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/m-lunch-react/static/css/main.298ebb4f.css",
+    "main.css": "/m-lunch-react/static/css/main.a41d23ef.css",
     "main.js": "/m-lunch-react/static/js/main.5ebe5ac1.js",
     "static/media/hot-dogbgd.jpg": "/m-lunch-react/static/media/hot-dogbgd.d0ab2e23a7f8cc8c7ada.jpg",
     "static/media/napitkibgd.jpg": "/m-lunch-react/static/media/napitkibgd.a3faf900133bfd71e9bb.jpg",
@@ -11,11 +11,11 @@
     "static/media/pizzabgd2.jpg": "/m-lunch-react/static/media/pizzabgd2.f95ea4f2c8b7516b5ddf.jpg",
     "static/media/salatbgd.jpg": "/m-lunch-react/static/media/salatbgd.c6eed4705dfb938d1557.jpg",
     "index.html": "/m-lunch-react/index.html",
-    "main.298ebb4f.css.map": "/m-lunch-react/static/css/main.298ebb4f.css.map",
+    "main.a41d23ef.css.map": "/m-lunch-react/static/css/main.a41d23ef.css.map",
     "main.5ebe5ac1.js.map": "/m-lunch-react/static/js/main.5ebe5ac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.298ebb4f.css",
+    "static/css/main.a41d23ef.css",
     "static/js/main.5ebe5ac1.js"
   ]
 }
